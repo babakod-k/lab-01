@@ -1,7 +1,7 @@
 # CMPUT 301: Lab 1 Participation Exercise
 
 ## Student Details
-- **Full Name:** `SUlEYMAN KEREM KORKUT`
+- **Full Name:** `SULEYMAN KEREM KORKUT`
 - **CCID:** `korkut`
 
 ## References and Resources
